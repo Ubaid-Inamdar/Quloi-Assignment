@@ -1,0 +1,51 @@
+{
+  "manageCharge": [
+    {
+      "description": "Freight",
+      "name": "Freight",
+      "price": "USD 1781.8",
+      "unit": "Per Container",
+      "tax": "-",
+      "exchangeRate": 1,
+      "finalPayement": "INR 2000",
+      "id": 1
+    },
+    {
+      "description": "Free in",
+      "name": "Free in",
+      "price": "USD 160",
+      "unit": "Per Container",
+      "tax": "-",
+      "exchangeRate": 1,
+      "finalPayement": "INR 2000",
+      "id": 2
+    },
+    {
+      "description": "BiFee",
+      "name": "BiFee",
+      "price": "Tl175",
+      "unit": "per BI",
+      "tax": "18%",
+      "exchangeRate": 1,
+      "finalPayement": "INR 2000",
+      "id": 3
+    },
+    {
+      "description": "Temporary",
+      "name": "Temporary Accept",
+      "price": "USD 140",
+      "unit": "Per Container",
+      "tax": "18%",
+      "exchangeRate": 70.79,
+      "finalPayement": "INR 2000",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john@example.com"
+    }
+  ]
+}
